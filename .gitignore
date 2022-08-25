@@ -1,0 +1,36 @@
+pattern-recognition-course/models
+models/*.pth
+
+*.yaml
+*.yml
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore latex generated stuff
+publications/**/*.aux
+publications/**/*.log
+
+logs/
+
+*.tar
+*.pth
+*.spec
+
+environment.yml
+
+build/
+
+# Ignore jupyter notebook checkpoints
+notebooks/**/.ipynb_checkpoints/
+
+# Ignore partition data
+notebooks/partitions/*.csv
+
+# Ignore env
+env/
+
+tmp/
+bin/*.sh
