@@ -40,6 +40,9 @@ For each of the following, make sure to run `pip install [package-name]`:
 
 * jupyter
 * pandas
+* torch
+* tqdm
+* sklearn
 
 4. Enter the directory `notebooks` and run the following command:
 
