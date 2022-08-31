@@ -9,7 +9,7 @@ Files related to course on pattern recognition.
 Make sure you have python 3.x installed in your computers and know how to call it from the command line. To create a virtual environment (assuming your run python 3 using `python3` from the command line), execute the following command:
 
 ```
-python3 -v venv env
+python3 -m venv env
 ```
 
 This will create a directory called `env` (which is ignored here in the repository so you can generate your own).
