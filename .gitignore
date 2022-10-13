@@ -34,3 +34,6 @@ env/
 
 tmp/
 bin/*.sh
+
+# Ignore submissions
+submissions/
