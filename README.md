@@ -51,3 +51,8 @@ jupyter notebook .
 ```
 
 5. Visit the running jupyter instance by pointing your browser to `http://localhost:8888` (usually this is ran automatically after doing item 4).
+
+## Lab Exercises
+
+* [Neural Regression](https://colab.research.google.com/drive/19jCsd1vSytbYoqOClp9B-HfQf5KSw44S#scrollTo=Xx2N-v3F5g4L)
+
